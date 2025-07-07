@@ -34,3 +34,5 @@ Policy_Curator/
 ├── data/
 │   └── [PDF 문서들]
 └── [README.md](http://readme.md/)
+
+시연 동영상 파일 rag.mp4
